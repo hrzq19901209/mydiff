@@ -1,0 +1,15 @@
+AUTHORS
+ChangeLog
+README.rst
+setup.cfg
+setup.py
+mydiff/__init__.py
+mydiff.egg-info/PKG-INFO
+mydiff.egg-info/SOURCES.txt
+mydiff.egg-info/dependency_links.txt
+mydiff.egg-info/entry_points.txt
+mydiff.egg-info/not-zip-safe
+mydiff.egg-info/pbr.json
+mydiff.egg-info/top_level.txt
+mydiff/cmd/__init__.py
+mydiff/cmd/api.py

@@ -1,0 +1,3 @@
+[console_scripts]
+mydiff = mydiff.cmd.api:main
+
